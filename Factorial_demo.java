@@ -19,3 +19,11 @@ public class Factorial_demo {
 		
 	}
 }
+
+
+/*
+output:-
+Enter number : 
+7
+The Factorial of 7 is :5040
+*/

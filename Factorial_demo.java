@@ -1,3 +1,4 @@
+//Q.Write a program to Find factorial of a number.
 import java.util.Scanner;
 
 public class Factorial_demo {
